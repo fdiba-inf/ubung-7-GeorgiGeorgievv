@@ -15,8 +15,6 @@ public class Triangle {
         for (int line = n - 1; line > 0; line--) {
             printLine(1, line);
         }
-
-
     }
 
     public static void printLine(int start, int end) {
