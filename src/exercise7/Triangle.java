@@ -17,6 +17,7 @@ public class Triangle {
         }
     }
 
+
     public static void printLine(int start, int end) {
         for (int i = start; i <= end; i++) {
             if (i == end) {
