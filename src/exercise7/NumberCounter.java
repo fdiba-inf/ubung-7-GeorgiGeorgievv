@@ -23,7 +23,6 @@ public class NumberCounter {
     }
 
 
-
     public static int countNumberOccurrences(int number, int[] numbers) {
         int count = 0;
         for (int j : numbers) {
